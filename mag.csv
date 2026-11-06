@@ -50,7 +50,7 @@ ALUCYNK ECO CHEMICAL;Cynk w spray Eco Chemical 500ml;18,00;14,90;Stan towaru pow
 CWDO-C-100-Z;Czerpnia / wyrzutnia dachowa typ C – CWDO-C-100;120,00;45,82;Stan towaru powyżej ilości minimalnej;25,00;SZT;TZ;25,00;0,00;Wyrzutnia okrągła CWDO-C.png;0,00;0,00;0,00;3 000,00
 CWDO-C-125(P);Czerpnia / wyrzutnia dachowa typ C – CWDO-C-125;130,00;7,64;Stan towaru powyżej ilości minimalnej;5,00;SZT;TZ;5,00;1,50;Wyrzutnia okrągła CWDO-C.png;0,00;0,00;0,00;650,00
 CWDO-C-160 (P);Czerpnia / wyrzutnia dachowa typ C – CWDO-C-160;140,00;10,10;Stan towaru powyżej ilości minimalnej;6,00;SZT;TZ;6,00;1,50;Wyrzutnia okrągła CWDO-C.png;0,00;0,00;35,00;840,00
-CWDO-C-200 N (P);Czerpnia / wyrzutnia dachowa typ C – CWDO-C-200N;160,00;13,70;Stan towaru powyżej ilości minimalnej;6,00;SZT;TZ;6,00;0,00;;0,00;0,00;0,00;960,00
+CWDO-C-200 N (P);Czerpnia / wyrzutnia dachowa typ C – CWDO-C-200N;160,00;13,70;Stan towaru powyżej ilości minimalnej;5,00;SZT;TZ;5,00;0,00;;0,00;0,00;0,00;800,00
 CWDO-C-250-Z;Czerpnia / wyrzutnia dachowa typ C – CWDO-C-250;180,00;10,00;Stan towaru powyżej ilości minimalnej;6,00;SZT;TZ;6,00;0,00;;0,00;0,00;4,00;1 080,00
 CWDO-C-315-Z;Czerpnia / wyrzutnia dachowa typ C – CWDO-C-315;240,00;0,01;Stan towaru powyżej ilości minimalnej;29,00;SZT;TZ;29,00;0,00;Wyrzutnia okrągła CWDO-C.png;0,00;0,00;1,00;6 960,00
 USLA-100 (CN);CZERPNIA ŚCIENNA CHROMONIKLOWA Z OKAPNIKIEM I SIATKĄ USLA-100;29,40;0,01;Stan towaru powyżej ilości minimalnej;138,00;SZT;TP;138,00;0,00;;0,00;0,00;4,00;4 057,20
@@ -85,10 +85,10 @@ CZW-315/100;Czwórnik 315/100;45,10;37,58;Stan towaru powyżej ilości minimalne
 CZW-315/200;Czwórnik 315/200;42,07;0,01;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;0,00;84,14
 CZW-400/250;Czwórnik CZW-400/250;129,89;0,01;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;129,89
 DS-100;Dekiel DS-100;5,21;0,01;Stan towaru powyżej ilości minimalnej;88,00;SZT;TP;88,00;8,00;Dekiel tłoczony.jpg;0,00;0,00;20,00;458,48
-DS-125;Dekiel DS-125;3,31;2,00;Stan towaru powyżej ilości minimalnej;77,00;SZT;TP;77,00;39,50;Dekiel tłoczony.jpg;0,00;0,00;210,00;254,87
+DS-125;Dekiel DS-125;3,31;2,00;Stan towaru powyżej ilości minimalnej;79,00;SZT;TP;79,00;39,50;Dekiel tłoczony.jpg;0,00;0,00;210,00;261,49
 DS-160;Dekiel DS-160;4,61;2,53;Stan towaru poniżej ilości minimalnej;19,00;SZT;TP;19,00;23,50;Dekiel tłoczony.jpg;0,00;0,00;30,00;87,59
-DS-200;Dekiel DS-200;4,99;3,60;Stan towaru powyżej ilości minimalnej;54,00;SZT;TP;54,00;42,50;Dekiel tłoczony.jpg;0,00;0,00;270,00;269,46
-DS-250;Dekiel DS-250;6,72;5,60;Stan towaru powyżej ilości minimalnej;48,00;SZT;TP;48,00;19,50;Dekiel tłoczony.jpg;0,00;0,00;157,00;322,56
+DS-200;Dekiel DS-200;4,99;3,60;Stan towaru powyżej ilości minimalnej;55,00;SZT;TP;55,00;42,50;Dekiel tłoczony.jpg;0,00;0,00;270,00;274,45
+DS-250;Dekiel DS-250;6,72;5,60;Stan towaru powyżej ilości minimalnej;51,00;SZT;TP;51,00;19,50;Dekiel tłoczony.jpg;0,00;0,00;157,00;342,72
 DS-315;Dekiel DS-315;10,86;8,00;Stan towaru powyżej ilości minimalnej;39,00;SZT;TP;39,00;5,50;Dekiel tłoczony.jpg;0,00;0,00;35,00;423,54
 DS-355;Dekiel DS-355;12,82;0,01;Stan towaru powyżej ilości minimalnej;18,00;SZT;TP;18,00;1,00;Dekiel tłoczony.jpg;0,00;0,00;0,00;230,76
 DS-400;Dekiel DS-400;16,11;11,25;Stan towaru powyżej ilości minimalnej;33,00;SZT;TP;33,00;4,00;Dekiel tłoczony.jpg;0,00;0,00;15,00;531,63
@@ -108,14 +108,14 @@ DS100U;Dekiel z uszczelką DS-100U;9,42;8,19;Stan towaru powyżej ilości minima
 DOBIJAK M8;Dobijak do kotew M8;16,68;14,50;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,50;;0,00;0,00;0,00;33,36
 DOBIJAK M10;Dobijak do tulei M10;17,40;14,50;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;0,00;;0,00;0,00;0,00;139,20
 DWUGWINT 10X120;"Dwugwint 10x120
-";0,68;0,50;Stan towaru poniżej ilości minimalnej;132,00;SZT;TP;132,00;248,00;;0,00;0,00;665,00;89,76
+";0,68;0,50;Stan towaru poniżej ilości minimalnej;132,00;SZT;TP;132,00;248,00;;0,00;0,00;765,00;89,76
 DWUGWINT 10X160;Dwugwint 10x160;1,13;0,83;Stan towaru powyżej ilości minimalnej;190,00;SZT;TP;190,00;0,00;;0,00;0,00;50,00;214,70
 DWUGWINT 10X250;Dwugwint 10x200;1,56;1,30;Stan towaru powyżej ilości minimalnej;20,00;SZT;TP;20,00;0,00;;0,00;0,00;0,00;31,20
-DWUGWINT 10X80;Dwugwint 10x80;0,48;0,36;Stan towaru poniżej ilości minimalnej;60,00;SZT;TP;60,00;93,00;;0,00;0,00;1 274,00;28,80
-DWUGWINT 8X120;Dwugwint 8x120;0,47;0,37;Stan towaru poniżej ilości minimalnej;19,00;SZT;TP;19,00;145,00;;0,00;0,00;420,00;8,93
+DWUGWINT 10X80;Dwugwint 10x80;0,48;0,36;Stan towaru poniżej ilości minimalnej;60,00;SZT;TP;60,00;93,00;;0,00;0,00;1 374,00;28,80
+DWUGWINT 8X120;Dwugwint 8x120;0,47;0,37;Stan towaru poniżej ilości minimalnej;19,00;SZT;TP;19,00;145,00;;0,00;0,00;720,00;8,93
 DWUGWINT 8X160;Dwugwint 8x160;0,65;0,53;Stan towaru powyżej ilości minimalnej;34,00;SZT;TP;34,00;12,00;;0,00;0,00;0,00;22,10
 DWUGWINT 8X200;Dwugwint 8x200;0,83;0,62;Stan towaru powyżej ilości minimalnej;136,00;SZT;TP;136,00;0,00;;0,00;0,00;50,00;112,88
-DWUGWINT 8X80;Dwugwint 8x80;0,36;0,26;Stan towaru powyżej ilości minimalnej;812,00;SZT;TP;812,00;77,50;;0,00;0,00;2 787,00;292,32
+DWUGWINT 8X80;Dwugwint 8x80;0,36;0,26;Stan towaru powyżej ilości minimalnej;762,00;SZT;TP;762,00;77,50;;0,00;0,00;2 787,00;274,32
 FILTR STOŻKOWY FI 125;Filtr stożkowy do anemostatu fi 125mm;10,68;8,54;Stan towaru powyżej ilości minimalnej;23,00;SZT;TP;23,00;0,00;;0,00;0,00;0,00;245,64
 FOLIA STRECZ PRZEŻROCZYSTA;Folia  strecz przeźroczysta 2,5kg;30,42;25,35;Stan towaru powyżej ilości minimalnej;12,00;SZT;TP;12,00;0,00;;0,00;0,00;24,00;365,04
 FOLIA BUDOWLANA 4X25;Folia budowlana czarna 4x25 rolka (100m2);0,72;0,60;Stan towaru powyżej ilości minimalnej;300,00;m.kw;TP;300,00;100,00;;0,00;0,00;1 300,00;216,00
@@ -162,7 +162,7 @@ TOSOTTMV-ND56T/B-T;Jednostka kasetonowa 4-stronna kompaktowa TOSOT TMV-ND56T/B-T
 TOSOTTMV-ND28T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND28T/A-T jedn.wew.;526,94;479,04;Stan towaru powyżej ilości minimalnej;4,00;Szt.;TP;4,00;0,00;;0,00;0,00;0,00;2 107,76
 TOSOTTMV-ND36T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND36T/A-T jedn.wew.;536,70;487,91;Stan towaru powyżej ilości minimalnej;3,00;Szt.;TP;3,00;0,00;;0,00;0,00;0,00;1 610,10
 TOSOTTMV-ND45T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND45T/A-T  jedn.wew.;544,51;495,01;Stan towaru powyżej ilości minimalnej;12,00;Szt.;TP;12,00;0,00;;0,00;0,00;0,00;6 534,12
-TOSOTTMV-ND56T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND56T/A-T jedn.wew.;603,05;548,23;Stan towaru powyżej ilości minimalnej;35,00;Szt.;TP;35,00;0,00;;0,00;0,00;0,00;21 106,75
+TOSOTTMV-ND56T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND56T/A-T jedn.wew.;603,05;548,23;Stan towaru powyżej ilości minimalnej;34,00;Szt.;TP;34,00;0,00;;0,00;0,00;0,00;20 503,70
 TOSOTTMV-ND63T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND63T/A-T jedn.wew.;610,86;555,33;Stan towaru powyżej ilości minimalnej;13,00;Szt.;TP;13,00;0,00;;0,00;0,00;0,00;7 941,18
 TOSOTTMV-ND71T/A-T TC01;Jednostka kasetonowa 4-stronna TOSOT TMV-ND71T/A-T TC01;1 153,21;1 048,37;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;0,00;;0,00;0,00;0,00;9 225,68
 TOSOT TMV-ND90T/A-T;Jednostka kasetonowa 4-stronna TOSOT TMV-ND90T/A-T;1 439,56;1 107,36;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;0,00;;0,00;0,00;0,00;12 956,04
@@ -248,6 +248,7 @@ BS-355/45;Kolano segmentowe BS-355/45;27,60;24,00;Stan towaru powyżej ilości m
 BS-355/45U;Kolano segmentowe BS-355/45U z uszczelką;38,56;32,13;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;38,56
 BS-355/90;Kolano segmentowe BS-355/90;44,40;36,20;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;4,00;Kolano segmentowe.png;0,00;0,00;13,00;355,20
 BS-400/45X;Kolano segmentowe BS-400/45 nierdzewne;100,32;77,17;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;0,00;200,64
+BS-400/90;Kolano segmentowe BS-400/90;54,00;45,00;Stan towaru poniżej ilości minimalnej;4,00;SZT;TP;4,00;6,00;Kolano segmentowe.png;0,00;0,00;29,00;216,00
 BS-450/45;Kolano segmentowe BS-450/45;50,00;40,00;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,00;Kolano segmentowe 45.png;0,00;0,00;5,00;150,00
 BS-450/90;Kolano segmentowe BS-450/90;90,00;75,00;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,00;Kolano segmentowe.png;0,00;0,00;15,00;270,00
 BS-500/45;Kolano segmentowe BS-500/45;54,00;45,00;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;1,00;;0,00;0,00;8,00;108,00
@@ -263,15 +264,15 @@ BP-100/90U;Kolano tłoczone BP-100/90 z uszczelką;11,76;9,80;Stan towaru powyż
 BP-125/15;Kolano tłoczone BP-125/15;16,92;11,75;Stan towaru powyżej ilości minimalnej;13,00;SZT;TP;13,00;0,00;;0,00;0,00;0,00;219,96
 BP-125/45;Kolano tłoczone BP-125/45;9,00;6,50;Stan towaru powyżej ilości minimalnej;62,00;SZT;TP;62,00;37,50;Kolano tłoczone 45.png;0,00;0,00;60,00;558,00
 BP-125/45 U;Kolano tłoczone BP-125/45 z uszczelką ;12,05;10,04;Stan towaru powyżej ilości minimalnej;24,00;SZT;TP;24,00;0,00;;0,00;0,00;0,00;289,20
-BP-125/90;Kolano tłoczone BP-125/90 ;10,08;7,95;Stan towaru poniżej ilości minimalnej;127,00;SZT;TP;127,00;162,50;Kolano tłoczone 90.png;0,00;0,00;273,00;1 280,16
+BP-125/90;Kolano tłoczone BP-125/90 ;10,08;7,95;Stan towaru poniżej ilości minimalnej;122,00;SZT;TP;122,00;162,50;Kolano tłoczone 90.png;0,00;0,00;273,00;1 229,76
 BP-125/90U;Kolano tłoczone BP-125/90 z uszczelką;13,13;10,94;Stan towaru powyżej ilości minimalnej;16,00;SZT;TP;16,00;3,00;Kolano tłoczone z uszczelką 90.png;0,00;0,00;0,00;210,08
 BP-160/45;Kolano tłoczone BP-160/45;11,40;8,40;Stan towaru powyżej ilości minimalnej;111,00;SZT;TP;111,00;15,00;Kolano tłoczone 45.png;0,00;0,00;110,00;1 265,40
 BP-160/45U;Kolano tłoczone BP-160/45  z uszczelką;14,83;12,36;Stan towaru powyżej ilości minimalnej;21,00;SZT;TP;21,00;5,00;Kolano tłoczone z uszczelką 45.JPG;0,00;0,00;0,00;311,43
 BP-160/90;Kolano tłoczone BP-160/90;14,88;11,79;Stan towaru poniżej ilości minimalnej;118,00;SZT;TP;118,00;159,50;Kolano tłoczone 90.png;0,00;0,00;310,00;1 755,84
 BP-160/90U;Kolano tłoczone BP-160/90 z uszczelką;18,31;15,26;Stan towaru powyżej ilości minimalnej;23,00;SZT;TP;23,00;9,00;;0,00;0,00;0,00;421,13
-BP-200/45;Kolano tłoczone BP-200/45;16,08;12,50;Stan towaru powyżej ilości minimalnej;42,00;SZT;TP;42,00;37,50;Kolano tłoczone 45.png;0,00;0,00;174,00;675,36
+BP-200/45;Kolano tłoczone BP-200/45;16,08;12,50;Stan towaru powyżej ilości minimalnej;62,00;SZT;TP;62,00;37,50;Kolano tłoczone 45.png;0,00;0,00;154,00;996,96
 BP-200/45 U;Kolano tłoczone BP-200/45 z uszczelką;18,98;15,82;Stan towaru powyżej ilości minimalnej;16,00;SZT;TP;16,00;0,00;Kolano tłoczone z uszczelką 45.JPG;0,00;0,00;0,00;303,68
-BP-200/90;Kolano tłoczone BP-200/90;22,56;18,80;Stan towaru poniżej ilości minimalnej;39,00;SZT;TP;39,00;113,00;Kolano tłoczone 90.png;0,00;0,00;378,00;879,84
+BP-200/90;Kolano tłoczone BP-200/90;22,56;18,80;Stan towaru poniżej ilości minimalnej;111,00;SZT;TP;111,00;113,00;Kolano tłoczone 90.png;0,00;0,00;306,00;2 504,16
 BP-200/90 U;Kolano tłoczone BP-200/90 z uszczelką;26,54;22,12;Stan towaru powyżej ilości minimalnej;48,00;SZT;TZ;48,00;5,00;Kolano tłoczone z uszczelką 90.png;0,00;0,00;0,00;1 273,92
 BP-80/45;Kolano tłoczone BP-80/45;9,48;7,90;Stan towaru powyżej ilości minimalnej;64,00;SZT;TP;64,00;0,00;Kolano tłoczone 45.png;0,00;0,00;20,00;606,72
 BP-80/90;Kolano tłoczone BP-80/90;11,81;9,84;Stan towaru powyżej ilości minimalnej;78,00;SZT;TP;78,00;1,50;Kolano tłoczone 90.png;0,00;0,00;60,00;921,18
@@ -280,7 +281,7 @@ IL 125-Z;Kolar-125;2,88;2,30;Stan towaru powyżej ilości minimalnej;29,00;SZT;T
 IL 160-Z;Kolar-160;4,33;2,80;Stan towaru powyżej ilości minimalnej;27,00;SZT;TZ;21,00;12,50;Kolar.jpg;6,00;0,00;270,00;116,91
 IL 200-Z;Kolar-200;5,05;3,50;Stan towaru powyżej ilości minimalnej;39,00;SZT;TZ;35,00;0,00;;4,00;0,00;370,00;196,95
 IL 200 (P);Kolar-200 (P);9,21;1,46;Stan towaru powyżej ilości minimalnej;1,00;SZT;TZ;1,00;0,00;;0,00;0,00;60,00;9,21
-IL 250-Z;Kolar-250;8,26;3,80;Stan towaru powyżej ilości minimalnej;8,00;SZT;TZ;8,00;0,00;Kolar.jpg;0,00;0,00;200,00;66,08
+IL 250-Z;Kolar-250;8,26;3,80;Stan towaru powyżej ilości minimalnej;28,00;SZT;TZ;28,00;0,00;Kolar.jpg;0,00;0,00;180,00;231,28
 IL 250 (P);Kolar-250 (P);9,76;2,20;Stan towaru powyżej ilości minimalnej;4,00;SZT;TZ;4,00;0,00;;0,00;0,00;0,00;39,04
 IL 315-Z;Kolar-315;9,48;6,98;Stan towaru powyżej ilości minimalnej;26,00;SZT;TZ;26,00;1,00;Kolar.jpg;0,00;0,00;80,00;246,48
 IL 400-Z;Kolar-400;16,58;7,14;Stan towaru powyżej ilości minimalnej;1,00;SZT;TZ;1,00;0,00;Kolar.jpg;0,00;0,00;20,00;16,58
@@ -291,7 +292,7 @@ KOŁEKRAMOWY10X160;Kołek ramowy fi 10x160 (dybel z łbem sześciokątnym);2,20;
 KOŁEK RAMOWY 10X200;Kołek ramowy fi 10x200 (dybel z łbem sześciokątnym);4,50;3,75;Stan towaru powyżej ilości minimalnej;54,00;SZT;TP;54,00;12,50;;0,00;0,00;75,00;243,00
 KOŁEK RAMOWY 10X240;Kołek ramowy fi 10x240 (dybel z łbem sześciokątnym);5,08;4,23;Stan towaru powyżej ilości minimalnej;21,00;SZT;TP;21,00;4,00;;0,00;0,00;125,00;106,68
 KOŁEK RAMOWY 10X300;Kołek ramowy fi 10x300 (dybel z łbem sześciokątnym);9,25;7,71;Stan towaru powyżej ilości minimalnej;23,00;SZT;TP;23,00;3,00;;0,00;0,00;100,00;212,75
-KOŁEK10/50;Kołek rozporowy SX 10x50;0,50;0,38;Stan towaru powyżej ilości minimalnej;589,00;SZT;TP;589,00;0,00;;0,00;0,00;0,00;294,50
+KOŁEK10/50;Kołek rozporowy SX 10x50;0,50;0,38;Stan towaru powyżej ilości minimalnej;539,00;SZT;TP;539,00;0,00;;0,00;0,00;0,00;269,50
 KOŁEK 12/60;Kołek rozporowy SX 12x60;0,67;0,56;Stan towaru poniżej ilości minimalnej;220,00;SZT;TP;220,00;398,50;;0,00;0,00;869,00;147,40
 KOŁEK SHARK PRO 10X56;Kołek SHARK PRO 10x56 Wurth;0,48;0,40;Stan towaru powyżej ilości minimalnej;90,00;SZT;TP;90,00;0,00;;0,00;0,00;0,00;43,20
 KOŁEK SHARK TWIST 8X46;KOŁEK SHARK TWIST 8X46 Wurth;0,29;0,25;Stan towaru powyżej ilości minimalnej;184,00;SZT;TP;184,00;0,00;;0,00;0,00;0,00;53,36
@@ -299,7 +300,7 @@ KOŁEK SHARK UR 8X80;KOŁEK SHARK UR 8X80 Wurth;2,09;1,74;Stan towaru powyżej i
 KOŁEKSZYBKI 6X40;Kołek szybkiego montażu 6x40;0,07;0,06;Stan towaru powyżej ilości minimalnej;730,00;SZT;TP;730,00;198,00;;0,00;0,00;1 935,00;51,10
 KOŁEKSZYBKI 6X60;Kołek szybkiego montażu 6x60;0,12;0,10;Stan towaru powyżej ilości minimalnej;460,00;SZT;TP;460,00;100,00;;0,00;0,00;400,00;55,20
 KOŁEKSZYBKI 6X80;Kołek szybkiego montażu 6x80;0,14;0,13;Stan towaru powyżej ilości minimalnej;527,00;SZT;TP;527,00;0,00;;0,00;0,00;521,00;73,78
-KOŁEKSZYBKI 8X45;Kołek szybkiego montażu 8x45;0,17;0,15;Stan towaru powyżej ilości minimalnej;28,00;SZT;TP;28,00;0,00;;0,00;0,00;329,00;4,76
+KOŁEKSZYBKI 8X45;Kołek szybkiego montażu 8x45;0,17;0,15;Stan towaru powyżej ilości minimalnej;28,00;SZT;TP;28,00;0,00;;0,00;0,00;529,00;4,76
 KOŁEKSZYBKI 8X80;Kołek szybkiego montażu 8x80;0,23;0,19;Stan towaru powyżej ilości minimalnej;283,00;SZT;TP;283,00;4,00;;0,00;0,00;0,00;65,09
 ILA-400(P);Kołnierz elastyczny ILA-400;47,03;0,01;Stan towaru powyżej ilości minimalnej;4,00;SZT;TZ;4,00;0,00;Kołnierz elastyczny.jpg;0,00;0,00;0,00;188,12
 ILA-100(P);Kołnierz elastyczny okrągły (kompensator drgań) ILA 100 (P);17,34;0,24;Stan towaru powyżej ilości minimalnej;12,00;SZT;TZ;12,00;0,00;;0,00;0,00;0,00;208,08
@@ -355,8 +356,8 @@ MASKA OCHRONNA WURTH;Maska ochronna Wurth;11,80;9,80;Stan towaru powyżej ilośc
 MASKOWNICA ŚCIENNA PVC;Maskownica ścienna do koryta PVC ODWC 80;13,23;11,50;Stan towaru powyżej ilości minimalnej;6,00;SZT;TP;6,00;1,50;;0,00;0,00;50,00;79,38
 MATA ANTYWIBRACYJNA 1000X1000X10MM;Mata antywibracyjna 1000x1000x10mm;91,80;76,50;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;1,50;Mata antywibracyjna.JPG;0,00;0,00;0,00;826,20
 KAUCZUK 19MM;Mata kauczukowa samoprzylepna 19mm (10 mkw);33,60;28,50;Stan towaru powyżej ilości minimalnej;80,00;m.kw;TP;80,00;0,00;;0,00;0,00;60,00;2 688,00
-MIARA SKŁADANA 2M WURTH;Miara składana 2m Wurth;29,97;26,06;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;1,50;;0,00;0,00;5,00;89,91
-MIARA ZWIJANA 5M 19MM WURTH;Miara zwijana 5m 19mm Wurth;26,91;23,40;Stan towaru powyżej ilości minimalnej;10,00;SZT;TP;10,00;1,00;;0,00;0,00;5,00;269,10
+MIARA SKŁADANA 2M WURTH;Miara składana 2m Wurth;29,97;26,06;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;1,50;;0,00;0,00;5,00;59,94
+MIARA ZWIJANA 5M 19MM WURTH;Miara zwijana 5m 19mm Wurth;26,91;23,40;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;1,00;;0,00;0,00;5,00;242,19
 MIARA RECA 5M;Miara zwijana Reca 5m (metrówka);34,04;29,60;Stan towaru powyżej ilości minimalnej;5,00;SZT;TP;5,00;0,00;;0,00;0,00;0,00;170,20
 "MIEDŹ W OTULINIE TUBOLIT 1/2"" 25MB";"Miedź chłodnicza w otulinie ARMACELL 1/2"" (25mb)";661,33;585,25;Stan towaru powyżej ilości minimalnej;14,00;SZT;TP;14,00;0,00;;0,00;0,00;0,00;9 258,62
 "MIEDŹ W OTULINIE TUBOLIT 1/2"" 50MB";"Miedź chłodnicza w otulinie ARMACELL 1/2"" (50mb)";1 362,22;1 205,50;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;0,00;;0,00;0,00;0,00;10 897,76
@@ -379,10 +380,12 @@ MORO 125;MORO 125;19,50;16,25;Stan towaru powyżej ilości minimalnej;10,00;Szt.
 MORO 160;MORO 160;23,81;19,84;Stan towaru powyżej ilości minimalnej;3,00;Szt.;TP;3,00;0,00;;0,00;0,00;6,00;71,43
 MF 100-Z;Mufa fi 100;3,00;1,57;Stan towaru powyżej ilości minimalnej;15,00;SZT;TP;15,00;14,00;;0,00;0,00;0,00;45,00
 MF 100-Z (P);Mufa fi 100 mm (P);3,00;0,02;Stan towaru poniżej ilości minimalnej;1,00;SZT;TZ;1,00;14,50;Nypel.jpg;0,00;0,00;0,00;3,00
+MF 125-Z;Mufa fi 125;3,60;1,95;Stan towaru powyżej ilości minimalnej;20,00;SZT;TP;20,00;11,00;Mufa.png;0,00;0,00;4,00;72,00
 MF 125-Z (P);Mufa fi 125 mm (P);3,60;0,03;Stan towaru poniżej ilości minimalnej;1,00;SZT;TZ;1,00;14,50;Nypel.jpg;0,00;0,00;0,00;3,60
-MF 160-Z;Mufa fi 160;3,58;2,48;Stan towaru powyżej ilości minimalnej;9,99;SZT;TP;9,99;3,50;Mufa.png;0,00;0,00;24,00;35,78
+MF 160-Z;Mufa fi 160;3,58;2,48;Stan towaru powyżej ilości minimalnej;29,99;SZT;TP;29,99;3,50;Mufa.png;0,00;0,00;4,00;107,38
 MF 160-Z (P);Mufa fi 160 mm (P);3,80;0,03;Stan towaru poniżej ilości minimalnej;1,00;SZT;TZ;1,00;14,50;Nypel.jpg;0,00;0,00;0,00;3,80
-MF 315-Z;Mufa fi 315;6,55;5,46;Stan towaru powyżej ilości minimalnej;20,00;SZT;TP;20,00;13,00;Mufa.png;0,00;0,00;10,00;131,00
+MF 200-Z;Mufa fi 200;5,05;2,82;Stan towaru powyżej ilości minimalnej;20,00;SZT;TP;20,00;11,00;Mufa.png;0,00;0,00;4,00;101,00
+MF 315-Z;Mufa fi 315;6,55;5,46;Stan towaru powyżej ilości minimalnej;19,00;SZT;TP;19,00;13,00;Mufa.png;0,00;0,00;10,00;124,45
 MF 560-Z;Mufa fi 560;25,00;14,80;Stan towaru powyżej ilości minimalnej;2,00;SZT;TZ;2,00;0,00;;0,00;0,00;0,00;50,00
 MF 80-Z;Mufa fi 80;5,46;4,20;Stan towaru powyżej ilości minimalnej;5,00;SZT;TP;5,00;0,00;;0,00;0,00;0,00;27,30
 HCD 200/60/2;Nagrzewnica kanałowa HCD-EXT 200/60/2;1 002,92;872,10;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;1 002,92
@@ -390,7 +393,7 @@ PS-315/315X;Nakładka siodłowa nierdzewna PS-315/315X;90,35;75,29;Stan towaru p
 PS-100/100(PL);Nakładka siodłowa PS-100/100;4,73;0,01;Stan towaru powyżej ilości minimalnej;638,00;SZT;TZ;638,00;3,50;Nakładka siodłowa.jpg;0,00;0,00;0,00;3 017,74
 PS-100/80;Nakładka siodłowa PS-100/80;4,54;0,01;Stan towaru powyżej ilości minimalnej;19,00;SZT;TP;19,00;1,50;Nakładka siodłowa.jpg;0,00;0,00;0,00;86,26
 PS-1000/800;Nakładka siodłowa PS-1000/800;53,18;44,32;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;53,18
-PS-125/100 (CN);Nakładka siodłowa PS-125/100;6,96;0,01;Stan towaru powyżej ilości minimalnej;116,00;SZT;TP;116,00;3,00;Nakładka siodłowa.jpg;0,00;0,00;8,00;807,36
+PS-125/100 (CN);Nakładka siodłowa PS-125/100;6,96;0,01;Stan towaru powyżej ilości minimalnej;115,00;SZT;TP;115,00;3,00;Nakładka siodłowa.jpg;0,00;0,00;8,00;800,40
 PS-125/125;Nakładka siodłowa PS-125/125;5,99;4,20;Stan towaru powyżej ilości minimalnej;200,00;SZT;TP;200,00;91,00;Nakładka siodłowa.jpg;0,00;0,00;455,00;1 198,00
 PS-160/100 (CN);Nakładka siodłowa PS-160/100;4,73;0,01;Stan towaru powyżej ilości minimalnej;942,00;SZT;TP;942,00;12,00;Nakładka siodłowa.jpg;0,00;0,00;18,00;4 455,66
 PS-160/125;Nakładka siodłowa PS-160/125;5,94;4,35;Stan towaru powyżej ilości minimalnej;292,00;SZT;TP;292,00;117,00;Nakładka siodłowa.jpg;0,00;0,00;515,00;1 734,48
@@ -404,8 +407,9 @@ PS-200/250;Nakładka siodłowa PS-200/250 (na rurę 200, odejście 250);10,29;8,
 PS-200/80;Nakładka siodłowa PS-200/80;9,26;0,01;Stan towaru powyżej ilości minimalnej;18,00;SZT;TP;18,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;0,00;166,68
 PS-250/100;Nakładka siodłowa PS-250/100;4,82;3,89;Stan towaru powyżej ilości minimalnej;22,00;SZT;TP;22,00;1,00;Nakładka siodłowa.jpg;0,00;0,00;55,00;106,04
 PS-250/125;Nakładka siodłowa PS-250/125;6,28;4,90;Stan towaru powyżej ilości minimalnej;185,00;SZT;TP;185,00;137,00;Nakładka siodłowa.jpg;0,00;0,00;440,00;1 161,80
+PS-250/125 45ST;Nakładka siodłowa PS-250/125 45st;13,09;11,58;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;13,09
 PS-250/160;Nakładka siodłowa PS-250/160;8,99;7,49;Stan towaru powyżej ilości minimalnej;33,00;SZT;TP;33,00;1,50;Nakładka siodłowa.jpg;0,00;0,00;56,00;296,67
-PS-250/200U;Nakładka siodłowa PS-250/200 z uszczelką;19,04;15,87;Stan towaru poniżej ilości minimalnej;11,00;SZT;TP;11,00;17,50;Nakładka siodłowa.jpg;0,00;0,00;0,00;209,44
+PS-250/200U;Nakładka siodłowa PS-250/200 z uszczelką;19,04;15,87;Stan towaru poniżej ilości minimalnej;14,00;SZT;TP;14,00;17,50;Nakładka siodłowa.jpg;0,00;0,00;0,00;266,56
 PS-250/250;Nakładka siodłowa PS-250/250;20,17;16,81;Stan towaru powyżej ilości minimalnej;18,00;SZT;TP;18,00;2,00;Nakładka siodłowa.jpg;0,00;0,00;10,00;363,06
 PS-315/100;Nakładka siodłowa PS-315/100;5,06;3,89;Stan towaru powyżej ilości minimalnej;15,00;SZT;TP;15,00;0,50;Nakładka siodłowa.jpg;0,00;0,00;2,00;75,90
 PS-315/125;Nakładka siodłowa PS-315/125;5,59;4,50;Stan towaru poniżej ilości minimalnej;53,00;SZT;TP;53,00;58,00;Nakładka siodłowa.jpg;0,00;0,00;0,00;296,27
@@ -420,7 +424,7 @@ PS-400/200;Nakładka siodłowa PS-400/200 (450/355/200);12,19;13,35;Stan towaru 
 PS-400/315;Nakładka siodłowa PS-400/315;49,93;0,01;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,50;Nakładka siodłowa.jpg;0,00;0,00;35,00;99,86
 PS-400/355;Nakładka siodłowa PS-400/355;70,32;0,01;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;;0,00;0,00;0,00;492,24
 PS-400/400;Nakładka siodłowa PS-400/400;53,75;43,00;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;5,00;161,25
-PS-450/315;Nakładka siodłowa PS-450/315;33,17;27,64;Stan towaru powyżej ilości minimalnej;6,00;SZT;TP;6,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;4,00;199,02
+PS-450/315;Nakładka siodłowa PS-450/315;33,17;27,64;Stan towaru powyżej ilości minimalnej;4,00;SZT;TP;4,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;4,00;132,68
 PS-450/355;Nakładka siodłowa PS-450/355;71,27;0,01;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;;0,00;0,00;4,00;498,89
 PS-450/400;Nakładka siodłowa PS-450/400;83,51;60,74;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;0,00;751,59
 PS-450/450;Nakładka siodłowa PS-450/450;92,98;77,48;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;Nakładka siodłowa.jpg;0,00;0,00;0,00;650,86
@@ -439,7 +443,7 @@ NAKRĘTKAM12;Nakrętka M12 ocynk;10,07;5,50;Stan towaru powyżej ilości minimal
 NAKRĘTKA M12 WALRAVEN;Nakrętka M12 Walraven;0,20;0,19;Stan towaru powyżej ilości minimalnej;672,00;SZT;TP;672,00;0,00;;0,00;0,00;0,00;134,40
 NAKRĘTKAM6;Nakrętka M6 ocynk;10,20;0,01;Stan towaru powyżej ilości minimalnej;35,30;kg;TP;35,30;0,00;;0,00;0,00;7,00;360,06
 NAKRĘTKA M8 NIERDZE;Nakrętka M8 nierdzewna;0,30;0,25;Stan towaru powyżej ilości minimalnej;100,00;SZT;TP;100,00;0,00;;0,00;0,00;0,00;30,00
-NAKRĘTKAM8;Nakrętka M8 ocynk;7,80;5,50;Stan towaru poniżej ilości minimalnej;44,58;kg;TP;44,58;48,85;;0,00;0,00;300,00;347,71
+NAKRĘTKAM8;Nakrętka M8 ocynk;7,80;5,50;Stan towaru poniżej ilości minimalnej;43,58;kg;TP;43,58;48,85;;0,00;0,00;300,00;339,91
 NAKRĘTKA M8 Z WKŁADKĄ;Nakrętka m8 z wkładką poliamidową;0,05;0,04;Stan towaru powyżej ilości minimalnej;3 600,00;SZT;TP;3 600,00;0,00;;0,00;0,00;0,00;180,00
 NICZUKNAKRETKASKOŚM10;Nakrętka skośna M10 do profili A, C Niczuk;0,58;0,53;Stan towaru powyżej ilości minimalnej;47,00;SZT;TP;47,00;0,00;;0,00;0,00;0,00;27,26
 NAKRĘTKA SZ. DIN 934 M10 WALRAVEN;Nakrętka sz. DIN934 BUP M10 Walraven;0,42;0,38;Stan towaru powyżej ilości minimalnej;256,00;SZT;TP;256,00;0,00;;0,00;0,00;0,00;107,52
@@ -489,11 +493,12 @@ NITZRYWALNY4/16;Nit zrywalny 4/16;23,88;19,90;Stan towaru powyżej ilości minim
 NITZRYWALNY 4/6;Nit zrywalny 4/6;22,68;17,90;Stan towaru powyżej ilości minimalnej;3,00;kg;TP;3,00;0,00;;0,00;0,00;0,00;68,04
 5905616182125;NORTADA Zawór wentylacyjny wyciągowy z ramką czarny NR-ZWW-125 RAL9005 MAT /7/;0,00;6,35;Stan towaru powyżej ilości minimalnej;1,00;Szt.;TP;1,00;0,00;;0,00;0,00;0,00;0,00
 NÓŻ160 + OSTRZA WURTH;Nóż tapicerski + ostrza Wurth;27,37;23,70;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;2,00;;0,00;0,00;10,00;246,33
-NÓŻ160 WURTH;Nóż tapicerski Wurth;11,73;10,20;Stan towaru powyżej ilości minimalnej;23,00;SZT;TP;23,00;2,00;;0,00;0,00;20,00;269,79
+NÓŻ160 WURTH;Nóż tapicerski Wurth;11,73;10,20;Stan towaru powyżej ilości minimalnej;22,00;SZT;TP;22,00;2,00;;0,00;0,00;20,00;258,06
 NM 100-Z;Nypel fi 100 mm;2,14;1,30;Stan towaru powyżej ilości minimalnej;179,00;SZT;TP;179,00;42,50;Nypel.jpg;0,00;0,00;880,00;383,06
 NM 125-Z;Nypel fi 125 mm;2,36;1,56;Stan towaru powyżej ilości minimalnej;634,00;SZT;TP;634,00;214,00;Nypel.jpg;0,00;0,00;2 989,00;1 496,24
 N 125-U;Nypel fi 125 mm z uszczelką;5,39;4,49;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;5,39
 NM 125-U;Nypel fi 125 mm z uszczelką;3,96;3,30;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;40,00;3,96
+NM 160-Z;Nypel fi 160 mm;3,80;1,99;Stan towaru powyżej ilości minimalnej;154,00;SZT;TP;154,00;148,50;Nypel.jpg;0,00;0,00;2 880,00;585,20
 NM 160-U;Nypel fi 160 mm z uszczelką;6,41;5,34;Stan towaru powyżej ilości minimalnej;18,00;SZT;TP;18,00;0,00;;0,00;0,00;0,00;115,38
 NM 200-Z;Nypel fi 200 mm;5,05;2,26;Stan towaru powyżej ilości minimalnej;414,00;SZT;TZ;414,00;0,00;Nypel.jpg;0,00;0,00;680,00;2 090,70
 NM 200-U;Nypel fi 200 mm z uszczelką;7,37;6,14;Stan towaru powyżej ilości minimalnej;59,00;SZT;TZ;59,00;0,00;;0,00;0,00;0,00;434,83
@@ -505,6 +510,7 @@ NM 315-Z;Nypel fi 315 mm;6,55;4,37;Stan towaru powyżej ilości minimalnej;59,00
 NM 315-U;Nypel fi 315 mm z uszczelką;9,50;7,80;Stan towaru powyżej ilości minimalnej;4,00;SZT;TZ;4,00;0,00;;0,00;0,00;0,00;38,00
 NM 400-Z;Nypel fi 400 mm;10,18;7,96;Stan towaru powyżej ilości minimalnej;10,00;SZT;TZ;10,00;6,50;Nypel.jpg;0,00;0,00;40,00;101,80
 NM 400-Z (P);Nypel fi 400 mm (P);10,18;0,07;Stan towaru powyżej ilości minimalnej;5,00;SZT;TZ;5,00;0,00;;0,00;0,00;0,00;50,90
+NM 450-Z (P);Nypel fi 450 mm (P);11,70;0,08;Stan towaru powyżej ilości minimalnej;1,00;SZT;TZ;1,00;0,00;;0,00;0,00;0,00;11,70
 NM 500-Z;Nypel fi 500mm;13,73;11,99;Stan towaru powyżej ilości minimalnej;10,00;SZT;TZ;10,00;0,00;;0,00;0,00;35,00;137,30
 NP 560-Z;Nypel fi 560 mm;25,57;20,00;Stan towaru powyżej ilości minimalnej;6,00;SZT;TZ;6,00;0,00;Nypel.jpg;0,00;0,00;0,00;153,42
 NM 630-Z (P);Nypel fi 630 mm;27,30;4,18;Stan towaru powyżej ilości minimalnej;3,00;SZT;TZ;3,00;0,00;;0,00;0,00;0,00;81,90
@@ -566,7 +572,7 @@ OPASKA80/9;Opaska kablowa TK90x9, 800mmx9,0mm (100szt);73,60;56,32;Stan towaru p
 OPASKA ŁĄCZĄCA  PVC;Opaska łącząca do koryta PVC ODC 80;5,18;4,50;Stan towaru powyżej ilości minimalnej;26,00;SZT;TP;26,00;0,00;;0,00;0,00;20,00;134,68
 OPASŚLIMBĘBEN;Opaska ślimakowa w taśmie PES na bebnie (30m);63,80;34,00;Stan towaru powyżej ilości minimalnej;10,00;SZT;TP;10,00;0,00;;0,00;0,00;0,00;638,00
 OPASKI KABLOWE 800 X 9,0 OPAKOWANIE 100SZT;Opaski kablowe 800 x 9,0 opakowanie 100szt;131,99;109,99;Stan towaru powyżej ilości minimalnej;1,00;opak;TP;1,00;0,00;;0,00;0,00;0,00;131,99
-OSTRZA 18MM WURTH;Ostrza łamane 18mm Wurth 1szt;2,07;1,80;Stan towaru powyżej ilości minimalnej;200,00;SZT;TP;200,00;20,50;;0,00;0,00;200,00;414,00
+OSTRZA 18MM WURTH;Ostrza łamane 18mm Wurth 1szt;2,07;1,80;Stan towaru powyżej ilości minimalnej;180,00;SZT;TP;180,00;20,50;;0,00;0,00;200,00;372,60
 OSTRZA WYMIENNE GOLDFLEX;Ostrza łamane GOLDFLEX;4,56;3,28;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;0,00;;0,00;0,00;0,00;41,04
 OSTRZA WYMIENNE RECA;Ostrza łamane Reca (10szt);19,99;15,99;Stan towaru powyżej ilości minimalnej;20,00;opk;TP;20,00;0,00;;0,00;0,00;0,00;399,80
 OTWORNICA 125MM WURTH;Otwornica 125mm Wurth;97,75;85,00;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;97,75
@@ -596,7 +602,7 @@ PODKŁADKA M10 1 X POSZ;Podkładka M10 1 x poszerzana;10,80;7,55;Stan towaru pow
 PODKŁADKA M10 2 X;Podkładka M10 2 x posz;10,80;7,90;Stan towaru powyżej ilości minimalnej;19,17;kg;TP;19,17;3,00;;0,00;0,00;0,00;206,99
 PODKŁADKA M12;Podkładka M12;7,64;0,01;Stan towaru powyżej ilości minimalnej;7,05;kg;TP;7,05;0,15;;0,00;0,00;5,50;53,86
 PODKŁADKA M6 1X;Podkładka M6 1xposzerzana;11,76;9,00;Stan towaru powyżej ilości minimalnej;4,32;kg;TP;4,32;0,00;;0,00;0,00;20,00;50,80
-PODKŁADKA M81X;Podkładka M8 1xposzerzana;9,54;7,60;Stan towaru powyżej ilości minimalnej;68,95;kg;TP;68,95;28,95;;0,00;0,00;230,00;657,80
+PODKŁADKA M81X;Podkładka M8 1xposzerzana;9,54;7,60;Stan towaru powyżej ilości minimalnej;67,95;kg;TP;67,95;28,95;;0,00;0,00;230,00;648,26
 PODKŁADKA M8 FI26 NICZUK;Podkładka M8 26mm Niczuk;0,13;0,12;Stan towaru powyżej ilości minimalnej;100,00;SZT;TP;100,00;0,00;;0,00;0,00;0,00;13,00
 PODKŁADKA M82X;Podkładka M8 2xposzerzana;10,32;7,95;Stan towaru powyżej ilości minimalnej;25,66;kg;TP;25,66;5,90;;0,00;0,00;0,00;264,83
 PODKŁADKA WM0-35 12.5/25MM WALRAVEN;Podkładka płaska WM0-35 12.5/25mm Walraven;0,22;0,20;Stan towaru powyżej ilości minimalnej;900,00;SZT;TP;900,00;0,00;;0,00;0,00;0,00;198,00
@@ -625,11 +631,11 @@ PRĘT M10/2000 WALRAVEN;Pręt gwintowany M10 L-2000 Walraven;7,62;6,93;Stan towa
 PRĘTM12-2M;Pręt gwintowany M12 L-2000;8,64;0,01;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;8,64
 PRĘT M12/2000 WALRAVEN;Pręt gwintowany M12 L-2000 Walraven;12,71;0,01;Stan towaru powyżej ilości minimalnej;52,00;SZT;TP;52,00;0,00;;0,00;0,00;100,00;660,92
 PRĘTM6-2M;Pręt gwintowany M6 L-2000;2,26;1,88;Stan towaru powyżej ilości minimalnej;50,00;SZT;TP;50,00;0,00;;0,00;0,00;0,00;113,00
-PRĘTM8-2M;Pręt gwintowany M8 L-2000;4,69;3,88;Stan towaru powyżej ilości minimalnej;179,00;SZT;TP;154,00;172,00;;25,00;0,00;2 300,00;839,51
+PRĘTM8-2M;Pręt gwintowany M8 L-2000;4,69;3,88;Stan towaru poniżej ilości minimalnej;129,00;SZT;TP;104,00;172,00;;25,00;0,00;2 300,00;605,01
 PRĘT M8/2000 WALRAVEN;Pręt gwintowany M8 L-2000 Walraven;5,51;4,35;Stan towaru powyżej ilości minimalnej;18,00;SZT;TP;18,00;13,50;;0,00;0,00;300,00;99,18
 PROFIL 41X41X2.0 WALRAVEN (3MB);Profil 41x41x2.0 Walraven (3mb);18,48;16,70;Stan towaru poniżej ilości minimalnej;6,00;mb;TP;6,00;12,00;;0,00;0,00;3,00;110,88
 INTERFIX 30X20X1,5 L-3000;Profil montażowy perforowany 30x20x1,5 L-3000;7,63;6,36;Stan towaru powyżej ilości minimalnej;159,00;mb;TP;159,00;27,00;;0,00;0,00;90,00;1 213,17
-INTERFIX 30X30X1,5 L-3000;Profil montażowy perforowany 30x30x1,5 L-3000;9,62;8,02;Stan towaru poniżej ilości minimalnej;221,00;mb;TP;221,00;228,00;;0,00;0,00;666,00;2 126,02
+INTERFIX 30X30X1,5 L-3000;Profil montażowy perforowany 30x30x1,5 L-3000;9,62;8,02;Stan towaru poniżej ilości minimalnej;215,00;mb;TP;215,00;228,00;;0,00;0,00;666,00;2 068,30
 PREFIX 30X30X1,5 L-3000 PREFIX;Profil montażowy perforowany 30x30x1,5 L-3000 ;9,09;7,90;Stan towaru poniżej ilości minimalnej;45,00;mb;TP;45,00;100,50;;0,00;0,00;0,00;409,05
  PREFIX 41X41X2,0 L-3000;Profil montażowy perforowany 41x41x2,0 L-3000 ;17,25;15,00;Stan towaru powyżej ilości minimalnej;166,00;mb;TP;166,00;25,50;;0,00;0,00;300,00;2 863,50
 INTERFIX 41X41X2,0 L-3000;Profil montażowy perforowany 41x41x2,0 L-3000 ;19,36;16,13;Stan towaru powyżej ilości minimalnej;223,00;mb;TP;214,00;192,00;;9,00;0,00;1 134,00;4 317,28
@@ -642,12 +648,12 @@ PRÓBNIK 162MM WURTH;Próbnik elektryczny 162mm Wurth;32,40;24,00;Stan towaru po
 DAF 180;Przeciwkołnierz (króciec przyłączeniowy) do wentylatorów dachowych 190/220/225/250;32,75;26,79;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;32,75
 KLAPAGRYFIT200;Przeciwpożarowa klapa odcinajaca EIS120 z mankietem mufowym GRYFIT CX-4S, D=200 + Wyzwalacz topikowy WT72C;229,00;151,58;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;229,00
 TOSOTRS485-W;Przekaźnik TOSOT RS485-W;220,79;200,72;Stan towaru powyżej ilości minimalnej;2,00;Szt.;TP;2,00;0,00;;0,00;0,00;0,00;441,58
-PO-100;Przepustnica okrągła PO-100;15,84;13,20;Stan towaru powyżej ilości minimalnej;59,00;SZT;TP;59,00;31,00;Przepustnica okrągła.jpg;0,00;0,00;360,00;934,56
+PO-100;Przepustnica okrągła PO-100;15,84;13,20;Stan towaru powyżej ilości minimalnej;58,00;SZT;TP;58,00;31,00;Przepustnica okrągła.jpg;0,00;0,00;360,00;918,72
 PO-100 U;Przepustnica okrągła PO-100 z uszczelką;18,72;15,60;Stan towaru poniżej ilości minimalnej;1,00;SZT;TP;1,00;31,00;Przepustnica okrągła.jpg;0,00;0,00;0,00;18,72
 PO-125;Przepustnica okrągła PO-125;17,04;14,20;Stan towaru poniżej ilości minimalnej;46,00;SZT;TP;36,00;58,50;Przepustnica okrągła.jpg;10,00;0,00;340,00;783,84
 PO-125 POD SIŁOWNIK;Przepustnica okrągła PO-125 pod siłownik;21,79;18,16;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;0,00;Przepustnica okrągła pod siłownik.jpeg,...;0,00;0,00;0,00;174,32
 PO-140;Przepustnica okrągła PO-140;19,20;16,00;Stan towaru poniżej ilości minimalnej;1,00;SZT;TP;1,00;37,00;Przepustnica okrągła.jpg;0,00;0,00;0,00;19,20
-PO-160;Przepustnica okrągła PO-160;18,60;15,50;Stan towaru poniżej ilości minimalnej;12,00;SZT;TP;12,00;37,00;Przepustnica okrągła.jpg;0,00;0,00;310,00;223,20
+PO-160;Przepustnica okrągła PO-160;18,60;15,50;Stan towaru powyżej ilości minimalnej;43,00;SZT;TP;43,00;37,00;Przepustnica okrągła.jpg;0,00;0,00;280,00;799,80
 PO-200;Przepustnica okrągła PO-200;21,60;18,00;Stan towaru poniżej ilości minimalnej;18,00;SZT;TP;18,00;19,00;Przepustnica okrągła.jpg;0,00;0,00;145,00;388,80
 PO-200 POD SIŁOWNIK;Przepustnica okrągła PO-200 pod siłownik;25,67;21,39;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;Przepustnica okrągła pod siłownik.jpeg,...;0,00;0,00;6,00;179,69
 PO-225;Przepustnica okrągła PO-225;15,24;12,70;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;0,00;30,48
@@ -662,7 +668,7 @@ PO-450;Przepustnica okrągła PO-450;84,00;70,00;Stan towaru powyżej ilości mi
 PO-500;Przepustnica okrągła PO-500;84,00;70,00;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,00;Przepustnica okrągła.jpg;0,00;0,00;3,00;252,00
 PO-80;Przepustnica okrągła PO-80;19,72;12,00;Stan towaru powyżej ilości minimalnej;5,00;SZT;TP;5,00;0,00;Przepustnica okrągła.jpg;0,00;0,00;10,00;98,60
 POI-100;Przepustnica okrągła pod izolację POI-100;15,84;13,20;Stan towaru powyżej ilości minimalnej;27,00;SZT;TP;27,00;0,00;;0,00;0,00;2,00;427,68
-POI-125;Przepustnica okrągła pod izolację POI-125;18,07;15,06;Stan towaru powyżej ilości minimalnej;9,00;SZT;TP;9,00;5,00;Przepustnica okrągła pod izolację.jpeg;0,00;0,00;128,00;162,63
+POI-125;Przepustnica okrągła pod izolację POI-125;18,07;14,20;Stan towaru powyżej ilości minimalnej;29,00;SZT;TP;29,00;5,00;Przepustnica okrągła pod izolację.jpeg;0,00;0,00;108,00;524,03
 POI-160;Przepustnica okrągła pod izolację POI-160I;20,00;15,50;Stan towaru powyżej ilości minimalnej;19,00;SZT;TP;19,00;0,00;;0,00;0,00;0,00;380,00
 POI-200;Przepustnica okrągła pod izolację POI-200;21,60;18,00;Stan towaru poniżej ilości minimalnej;60,00;SZT;TP;60,00;100,00;Przepustnica okrągła pod izolację.jpeg;0,00;0,00;160,00;1 296,00
 POI-250 (CN);Przepustnica okrągła pod izolację POI-250I;30,14;0,01;Stan towaru powyżej ilości minimalnej;17,00;SZT;TP;17,00;0,00;Przepustnica okrągła pod izolację.jpeg;0,00;0,00;0,00;512,38
@@ -733,7 +739,7 @@ RCT-200/125;Redukcja wentylacyjna RCT-200/125;10,04;0,01;Stan towaru powyżej il
 RCT-200/160;Redukcja wentylacyjna RCT-200/160;10,19;7,91;Stan towaru powyżej ilości minimalnej;71,00;SZT;TP;69,00;52,00;Redukcja wentylacyjna tłoczona.jpg;2,00;0,00;108,00;723,49
 RCT-250/100;Redukcja wentylacyjna RCT-250/100;23,41;15,61;Stan towaru powyżej ilości minimalnej;6,00;SZT;TP;6,00;0,50;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;3,00;140,46
 RCT-250/125;Redukcja wentylacyjna RCT-250/125;18,48;15,40;Stan towaru powyżej ilości minimalnej;44,00;SZT;TP;44,00;2,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;0,00;813,12
-RCT-250/160;Redukcja wentylacyjna RCT-250/160;12,65;0,01;Stan towaru powyżej ilości minimalnej;15,00;SZT;TP;15,00;1,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;0,00;189,75
+RCT-250/160;Redukcja wentylacyjna RCT-250/160;12,65;0,01;Stan towaru powyżej ilości minimalnej;16,00;SZT;TP;16,00;1,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;0,00;202,40
 RCT-250/200;Redukcja wentylacyjna RCT-250/200;12,12;10,10;Stan towaru powyżej ilości minimalnej;73,00;SZT;TP;73,00;36,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;80,00;884,76
 RCT-280/200;Redukcja wentylacyjna RCT-280/200;26,64;0,01;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;26,64
 RCT-280/250;Redukcja wentylacyjna RCT-280/250;30,00;19,58;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,00;;0,00;0,00;0,00;90,00
@@ -750,7 +756,7 @@ RCT-400/315;Redukcja wentylacyjna RCT-400/315;42,50;34,00;Stan towaru powyżej i
 RCT-400/315X;Redukcja wentylacyjna RCT-400/315 nierdzewna;105,43;0,01;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;105,43
 RCT-450/200;Redukcja wentylacyjna RCT-450/200;57,69;38,00;Stan towaru powyżej ilości minimalnej;4,00;SZT;TP;4,00;0,50;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;3,00;230,76
 RCT-450/250;Redukcja wentylacyjna RCT-450/250;51,25;0,01;Stan towaru powyżej ilości minimalnej;6,00;SZT;TP;6,00;0,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;2,00;307,50
-RCT-450/315;Redukcja wentylacyjna RCT-450/315;55,20;46,00;Stan towaru powyżej ilości minimalnej;5,00;SZT;TP;5,00;0,00;;0,00;0,00;0,00;276,00
+RCT-450/315;Redukcja wentylacyjna RCT-450/315;55,20;46,00;Stan towaru powyżej ilości minimalnej;4,00;SZT;TP;4,00;0,00;;0,00;0,00;0,00;220,80
 RCT-450/355;Redukcja wentylacyjna RCT-450/355;55,20;46,00;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;7,00;386,40
 RCT-450/400;Redukcja wentylacyjna RCT-450/400;60,00;46,00;Stan towaru powyżej ilości minimalnej;5,00;SZT;TP;5,00;0,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;15,00;300,00
 RCT-500/200;Redukcja wentylacyjna RCT-500/200;75,85;0,01;Stan towaru powyżej ilości minimalnej;6,00;SZT;TP;6,00;0,00;Redukcja wentylacyjna tłoczona.jpg;0,00;0,00;2,00;455,10
@@ -764,7 +770,6 @@ RCT-900/500;Redukcja wentylacyjna RCT-900/500;63,78;0,01;Stan towaru powyżej il
 REFAKTURA KOSZTÓW TRANSPORTU;REFAKTURA KOSZTÓW TRANSPORTU;0,00;0,00;Usługa;0,00;SZT;UP;0,00;0,00;;0,00;0,00;0,00;0,00
 REFLEKTOR LED ZE STATYWEM;Reflektor LED ze statywem IP65 2x50W;247,91;206,59;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;247,91
 HRX/1,0H;Regulator obrotów HRX 1.0 1-230V, 1.0;80,96;73,70;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,50;;0,00;0,00;0,00;80,96
-REKUPERATOR HAVACO AIRO+ 160;Rekuperator ścienny Havaco AIRO+ d=160;815,00;689,15;Stan towaru powyżej ilości minimalnej;4,00;SZT;TP;4,00;0,00;;0,00;0,00;0,00;3 260,00
 RĘKAWICE NITRYLOWE WURTH;Rękawice nitrylowe Wurth;0,56;0,49;Stan towaru powyżej ilości minimalnej;100,00;SZT;TP;100,00;1,50;Rękawice Wurth czerwone.JPG;0,00;0,00;0,00;56,00
 RĘKAWICE RECA EASY WORK R10;Rękawice RECA EASY WORK r.10;1,25;1,00;Stan towaru powyżej ilości minimalnej;1,00;para;TP;1,00;0,00;Rękawice RECA Easy Work.jpg;0,00;0,00;0,00;1,25
 RĘKAWICE RECA ŻÓŁTE R10;Rękawice RECA LATEX FOAM żółte r.10;17,00;0,01;Stan towaru powyżej ilości minimalnej;10,00;para;TP;10,00;0,00;Rękawice RECA Latex Foam.jpg;0,00;0,00;0,00;170,00
@@ -792,16 +797,16 @@ SPIRO125P40(1,5MB);Rura Spiro SPR-125 (1,5 mb);14,53;10,81;Stan towaru powyżej 
 SPIRO125P40;Rura Spiro SPR-125 (3 mb);25,05;22,08;Stan towaru poniżej ilości minimalnej;165,00;SZT;TZ;165,00;472,00;spiro.png;0,00;0,00;845,00;4 133,25
 SPIRO125P40 L-300;Rura Spiro SPR-125 L-300;5,07;2,40;Stan towaru poniżej ilości minimalnej;216,00;SZT;TZ;216,00;756,00;spiro.png;0,00;0,00;1 296,00;1 095,12
 SPIRO160P40(1,5MB);Rura Spiro SPR-160 (1,5 mb);17,98;13,92;Stan towaru powyżej ilości minimalnej;191,00;SZT;TZ;191,00;150,00;;0,00;0,00;214,00;3 434,18
-SPIRO160P40;Rura Spiro SPR-160 (3 mb);31,95;27,36;Stan towaru poniżej ilości minimalnej;304,00;SZT;TZ;304,00;504,50;spiro.png;0,00;0,00;921,00;9 712,80
+SPIRO160P40;Rura Spiro SPR-160 (3 mb);31,95;27,36;Stan towaru poniżej ilości minimalnej;254,00;SZT;TZ;254,00;504,50;spiro.png;0,00;0,00;921,00;8 115,30
 SPIRO200P40(1,5MB);Rura Spiro SPR-200 (1,5 mb);21,75;17,28;Stan towaru poniżej ilości minimalnej;120,00;SZT;TZ;120,00;131,00;;0,00;0,00;246,00;2 610,00
-SPIRO200P40;Rura Spiro SPR-200 (3 mb);39,50;34,56;Stan towaru poniżej ilości minimalnej;189,00;SZT;TZ;189,00;516,00;spiro.png;0,00;0,00;1 027,00;7 465,50
+SPIRO200P40;Rura Spiro SPR-200 (3 mb);39,50;34,56;Stan towaru poniżej ilości minimalnej;231,00;SZT;TZ;231,00;516,00;spiro.png;0,00;0,00;1 027,00;9 124,50
 SPIRO225P40 (1,5MB);Rura Spiro SPR-225 (1,5 mb);29,60;17,59;Stan towaru powyżej ilości minimalnej;1,00;SZT;TZ;1,00;1,00;spiro.png;0,00;0,00;0,00;29,60
 SPIRO225P40;Rura Spiro SPR-225 (3 mb);55,20;32,76;Stan towaru poniżej ilości minimalnej;2,00;SZT;TZ;2,00;53,50;spiro.png;0,00;0,00;97,00;110,40
 SPIRO250P45(1,5MB);Rura Spiro SPR-250 (1,5 mb);29,60;22,44;Stan towaru powyżej ilości minimalnej;2,00;SZT;TZ;2,00;2,00;spiro.png;0,00;0,00;0,00;59,20
-SPIRO250P45;Rura Spiro SPR-250 (3 mb);55,20;44,88;Stan towaru powyżej ilości minimalnej;30,00;SZT;TZ;30,00;11,50;spiro.png;0,00;0,00;0,00;1 656,00
+SPIRO250P45;Rura Spiro SPR-250 (3 mb);55,20;44,88;Stan towaru powyżej ilości minimalnej;108,00;SZT;TZ;108,00;11,50;spiro.png;0,00;0,00;0,00;5 961,60
 SPIRO280P50;Rura Spiro SPR-280 (3 mb);99,00;89,18;Stan towaru powyżej ilości minimalnej;8,00;Szt.;TZ;8,00;0,00;;0,00;0,00;0,00;792,00
 SPIRO315P45(1,5MB);Rura Spiro SPR-315 (1,5 mb);36,75;28,16;Stan towaru powyżej ilości minimalnej;13,00;SZT;TZ;12,00;1,00;spiro.png;1,00;0,00;0,00;477,75
-SPIRO315P45;Rura Spiro SPR-315 (3 mb);69,50;55,88;Stan towaru poniżej ilości minimalnej;40,00;SZT;TZ;40,00;131,00;spiro.png;0,00;0,00;223,00;2 780,00
+SPIRO315P45;Rura Spiro SPR-315 (3 mb);69,50;55,88;Stan towaru poniżej ilości minimalnej;47,00;SZT;TZ;47,00;131,00;spiro.png;0,00;0,00;223,00;3 266,50
 SPIRO355P50(1,5MB);Rura Spiro SPR-355 (1,5 mb);51,55;31,82;Stan towaru powyżej ilości minimalnej;8,00;SZT;TZ;8,00;1,00;spiro.png;0,00;0,00;0,00;412,40
 SPIRO355P50;Rura Spiro SPR-355 (3 mb);99,11;65,86;Stan towaru powyżej ilości minimalnej;32,00;SZT;TZ;32,00;7,00;spiro.png;0,00;0,00;0,00;3 171,52
 SPIRO400P50(1,5MB);Rura Spiro SPR-400 (1,5 mb);64,94;35,48;Stan towaru powyżej ilości minimalnej;9,00;SZT;TZ;9,00;2,00;spiro.png;0,00;0,00;0,00;584,46
@@ -810,14 +815,14 @@ SPIRO500P60;Rura Spiro SPR-500 (3 mb);180,16;93,24;Stan towaru powyżej ilości 
 SPIRO560P60;Rura Spiro SPR-560 (3 mb);195,00;127,20;Stan towaru powyżej ilości minimalnej;7,50;SZT;TZ;7,50;0,00;spiro.png;0,00;0,00;0,00;1 462,50
 SPIRO630P60;Rura Spiro SPR-630 (3 mb);218,00;133,33;Stan towaru powyżej ilości minimalnej;5,00;SZT;TZ;5,00;1,50;spiro.png;0,00;0,00;6,00;1 090,00
 SPIRO080P40;Rura spiro SPR-80 (3 mb);30,00;14,88;Stan towaru powyżej ilości minimalnej;121,00;SZT;TZ;121,00;0,00;spiro.png;0,00;0,00;0,00;3 630,00
-ILS 100-Z;Siatka-100;10,79;6,80;Stan towaru powyżej ilości minimalnej;2,00;SZT;TZ;2,00;0,00;Siatka ILS.jpg;0,00;0,00;50,00;21,58
+ILS 100-Z;Siatka-100;10,79;6,80;Stan towaru powyżej ilości minimalnej;32,00;SZT;TZ;32,00;0,00;Siatka ILS.jpg;0,00;0,00;20,00;345,28
 ILS 100-Z(P);Siatka-100 (P);10,79;1,14;Stan towaru powyżej ilości minimalnej;10,00;SZT;TZ;10,00;0,00;;0,00;0,00;100,00;107,90
 ILS 125-Z;Siatka-125;11,44;7,09;Stan towaru powyżej ilości minimalnej;54,00;SZT;TZ;54,00;0,00;;0,00;0,00;0,00;617,76
 ILS 160 (P);Siatka-160 (P);14,61;2,03;Stan towaru powyżej ilości minimalnej;23,00;SZT;TZ;23,00;0,00;Siatka ILS.jpg;0,00;0,00;80,00;336,03
 ILS 200-Z;Siatka-200;18,25;12,92;Stan towaru powyżej ilości minimalnej;12,00;SZT;TZ;12,00;4,00;Siatka ILS.jpg;0,00;0,00;90,00;219,00
 ILS 250-(P);"Siatka-250 (P)
 ";26,65;4,07;Stan towaru powyżej ilości minimalnej;22,00;SZT;TZ;22,00;0,00;;0,00;0,00;0,00;586,30
-ILS 315 (P);Siatka-315 (P);32,63;4,73;Stan towaru powyżej ilości minimalnej;9,00;SZT;TZ;9,00;1,50;Siatka ILS.jpg;0,00;0,00;45,00;293,67
+ILS 315 (P);Siatka-315 (P);32,63;4,73;Stan towaru powyżej ilości minimalnej;8,00;SZT;TZ;8,00;1,50;Siatka ILS.jpg;0,00;0,00;45,00;261,04
 ILS 335-Z;Siatka-355;38,61;0,01;Stan towaru powyżej ilości minimalnej;33,00;SZT;TZ;33,00;0,00;Siatka ILS.jpg;0,00;0,00;0,00;1 274,13
 ILS 400-Z;Siatka-400;60,01;48,01;Stan towaru powyżej ilości minimalnej;6,00;SZT;TZ;6,00;0,00;Siatka ILS.jpg;0,00;0,00;10,00;360,06
 ILS 500-Z;Siatka-500;64,00;0,01;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;Siatka ILS.jpg;0,00;0,00;0,00;64,00
@@ -895,12 +900,11 @@ STOPA LINIOWA BFH 400XX130X95;Stopa liniowa BFH 400x130x95mm (2szt);70,80;59,00;
 STOPA LINIOWA BFH 450XX130X95;Stopa liniowa BFH 450x130x95mm (2szt);76,56;63,80;Stan towaru powyżej ilości minimalnej;16,00;SZT;TP;16,00;3,00;;0,00;0,00;0,00;1 224,96
 STOPA LINIOWA BFH 600XX130X95;Stopa liniowa BFH 600x130x95mm (2szt);97,92;81,60;Stan towaru powyżej ilości minimalnej;16,00;SZT;TP;16,00;3,00;;0,00;0,00;0,00;1 566,72
 STOPA SQ 105/105;Stopa SQ 105/105 M10;15,60;13,00;Stan towaru powyżej ilości minimalnej;14,00;SZT;TP;14,00;2,00;;0,00;0,00;0,00;218,40
-STOPA T30;Stopa T30;7,00;5,50;Stan towaru poniżej ilości minimalnej;86,00;SZT;TP;86,00;230,00;;0,00;0,00;237,00;602,00
+STOPA T30;Stopa T30;7,00;5,50;Stan towaru powyżej ilości minimalnej;314,00;SZT;TP;314,00;230,00;;0,00;0,00;237,00;2 198,00
 STOPA T40;Stopa T40;7,20;6,00;Stan towaru powyżej ilości minimalnej;153,00;SZT;TP;139,00;0,00;;14,00;0,00;260,00;1 101,60
 STOPA T40 INTERFIX;Stopa T40 Interfix;8,98;7,81;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;8,00;17,96
 STOPA T40 REGULOWANA;Stopa T40 regulowana;27,63;22,10;Stan towaru powyżej ilości minimalnej;7,00;SZT;TP;7,00;0,00;;0,00;0,00;0,00;193,41
 STOPKA ANTYWIBRACYJNA;Stopka antywibracyjna z śrubą M8 do montażu jednostek zew. (1 kpl = 4 szt.);17,64;14,70;Stan towaru powyżej ilości minimalnej;3,00;SZT;TP;3,00;0,50;;0,00;0,00;0,00;52,92
-STOPKA MONTAŻOWA NICZUK;Stopka montażowa siodłowa ST-SMF do profilu TYPU MG MF MH 81125041410 NICZUK;36,98;30,82;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;0,00;73,96
 SUFITPRĘT-1000;Sufitowy pręt mocujący L-1000;1,44;1,10;Stan towaru poniżej ilości minimalnej;17,00;SZT;TP;17,00;25,00;;0,00;0,00;0,00;24,48
 SUFITPRĘT-1500;Sufitowy pręt mocujący L-1500;2,06;0,01;Stan towaru powyżej ilości minimalnej;4,00;SZT;TP;4,00;0,00;;0,00;0,00;191,00;8,24
 SUFITPRĘT-2000;Sufitowy pręt mocujący L-2000;2,94;2,45;Stan towaru powyżej ilości minimalnej;60,00;SZT;TP;60,00;0,00;;0,00;0,00;100,00;176,40
@@ -917,7 +921,7 @@ SZLIFIERKA WURTH;Szlifierka Wurth;55,00;50,00;Stan towaru powyżej ilości minim
 ŚRUBAOC6X25;Śruba M6x25;11,88;9,90;Stan towaru powyżej ilości minimalnej;5,27;kg;TP;5,27;0,00;;0,00;0,00;0,00;62,61
 ŚRUBA M6X40;Śruba M6x40;11,88;9,90;Stan towaru powyżej ilości minimalnej;10,98;kg;TP;10,98;0,00;;0,00;0,00;17,30;130,39
 ŚRUBAOC6X60;Śruba M6x60;15,00;9,90;Stan towaru powyżej ilości minimalnej;7,00;kg;TP;7,00;0,00;;0,00;0,00;50,00;105,00
-ŚRUBA M8X25;Śruba M8x25;10,20;7,90;Stan towaru poniżej ilości minimalnej;35,95;kg;TP;35,95;58,90;;0,00;0,00;480,00;366,69
+ŚRUBA M8X25;Śruba M8x25;10,20;7,90;Stan towaru poniżej ilości minimalnej;34,95;kg;TP;34,95;58,90;;0,00;0,00;480,00;356,49
 ŚRUBA M8X25 NIERDZEW;Śruba M8x25 nierdzewna;0,54;0,45;Stan towaru powyżej ilości minimalnej;100,00;SZT;TP;100,00;0,00;;0,00;0,00;0,00;54,00
 ŚRUBA M8X25 WALRAVEN;Śruba M8x25 Walraven ;0,39;0,35;Stan towaru powyżej ilości minimalnej;1 298,00;SZT;TP;1 298,00;0,00;;0,00;0,00;0,00;506,22
 ŚRUBA M8X35;Śruba M8x35;11,76;7,95;Stan towaru powyżej ilości minimalnej;7,84;kg;TP;7,84;6,00;;0,00;0,00;0,00;92,25
@@ -941,7 +945,7 @@ TAŚMA IZOLACYJNA WURTH;Taśma izolacyjna Wurth;2,76;0,01;Stan towaru powyżej i
 TAŚMAKAUCZUK3X48X15;Taśma kauczukowa samoprzylepna 3mm x 48mm x 15m;20,00;13,80;Stan towaru powyżej ilości minimalnej;51,00;SZT;TP;51,00;3,50;Taśma Kauczukowa.jpg;0,00;0,00;0,00;1 020,00
 TAŚMAMAL;Taśma malarska;2,69;0,01;Stan towaru powyżej ilości minimalnej;8,00;SZT;TP;8,00;0,00;;0,00;0,00;0,00;21,52
 TAŚMA PAKOWA;Taśma pakowa 48 mm x 40 mb brązowa;2,66;2,22;Stan towaru powyżej ilości minimalnej;36,00;SZT;TP;36,00;0,00;;0,00;0,00;76,00;95,76
-TAŚMAPERF17-06;Taśma perforowana 17-06 (25mb);17,13;13,70;Stan towaru powyżej ilości minimalnej;28,00;SZT;TP;28,00;1,00;;0,00;0,00;85,00;479,64
+TAŚMAPERF17-06;Taśma perforowana 17-06 (25mb);17,13;13,70;Stan towaru powyżej ilości minimalnej;26,00;SZT;TP;26,00;1,00;;0,00;0,00;85,00;445,38
 TAŚMAPERF25-08;Taśma perforowana 25-08 (25mb);26,88;18,90;Stan towaru powyżej ilości minimalnej;11,00;SZT;TP;11,00;2,50;;0,00;0,00;25,00;295,68
 TAŚMAPP;Taśma polipropylenowa 12x0,06x1000 (PP) białą;96,00;82,95;Stan towaru powyżej ilości minimalnej;5,00;opk;TP;5,00;0,00;;0,00;0,00;3,00;480,00
 TAŚMAPCV50/33;Taśma samoprzylepna PCV 50/33 jasno szara;13,94;9,96;Stan towaru powyżej ilości minimalnej;83,00;SZT;TP;83,00;35,00;;0,00;0,00;342,00;1 157,02
@@ -1141,7 +1145,7 @@ WKRĘT DO NAWIEWNI6X80;Wkręt do nawiewników 6x80;1,19;0,99;Stan towaru powyże
 WKRĘT 4,8X20 Z EPDM RAL9005;Wkręt farmerski 4,8x20mm z EPDM RAL9005 (1000szt);163,01;135,84;Stan towaru powyżej ilości minimalnej;0,14;SZT;TP;0,14;0,00;;0,00;0,00;0,00;22,82
 WKRĘTNAKLUCZ7(NIERDZ.)-4,2X16;"Wkręt nierdzewny na klucz ""7"" 4.2x16 (1000szt)  !!!!!!!!!!!!!!!!!!!!!!!!!";155,04;129,20;Stan towaru powyżej ilości minimalnej;10,00;opk;TP;10,00;0,00;;0,00;0,00;0,00;1 550,40
 WKRĘT KRZYŻAK 4,2X16 RAL9005;Wkręt samogwintujący na krzyżak 4,2x16 (1000SZT) RAL9005;159,36;132,80;Stan towaru powyżej ilości minimalnej;0,25;SZT;TP;0,25;0,00;;0,00;0,00;0,00;39,84
-WKRĘT IMBUS 4,2X13;Wkręt samogwintujący pod imbus 4,2x13 (1000szt);37,95;33,00;Stan towaru poniżej ilości minimalnej;13,00;opk;TP;12,00;31,40;;1,00;0,00;137,00;493,35
+WKRĘT IMBUS 4,2X13;Wkręt samogwintujący pod imbus 4,2x13 (1000szt);37,95;33,00;Stan towaru poniżej ilości minimalnej;12,00;opk;TP;11,00;31,40;;1,00;0,00;149,00;455,40
 WKRĘT IMBUS 4,2X16;Wkręt samogwintujący pod imbus 4,2x16 (1000szt);45,72;38,00;Stan towaru powyżej ilości minimalnej;12,00;opk;TP;12,00;0,00;;0,00;0,00;40,00;548,64
 WKRĘTNAKLUCZ7-4,2X13;"Wkręt samogwintujący pod klucz ""7"" 4,2x13 (1000szt)";43,36;36,50;Stan towaru powyżej ilości minimalnej;22,00;opk;TP;22,00;0,00;;0,00;0,00;32,00;953,92
 WKRĘTNAKLUCZ7-4,2X16;"Wkręt samogwintujący pod klucz ""7"" 4,2x16 (1000szt)";50,40;42,00;Stan towaru powyżej ilości minimalnej;13,00;opk;TP;13,00;0,00;;0,00;0,00;0,00;655,20
@@ -1156,7 +1160,7 @@ WKRĘT5.5/38;Wkręt samowiercący 5,5x38 (1000szt);225,00;190,00;Stan towaru pow
 WKRĘT5.5/50 S;Wkręt samowiercący 5,5x50 (1000szt);230,00;200,00;Stan towaru powyżej ilości minimalnej;0,70;opk;TP;0,70;0,00;;0,00;0,00;0,50;161,23
 WKRĘT5.5/75;Wkręt samowiercący 5,5x75 (1000szt);264,50;230,00;Stan towaru powyżej ilości minimalnej;1,66;opk;TP;1,66;0,00;;0,00;0,00;0,00;437,75
 WKRĘT5.5/90;Wkręt samowiercący 5,5x90 (1000szt);372,00;310,00;Stan towaru powyżej ilości minimalnej;0,01;opk;TP;0,01;0,00;;0,00;0,00;0,00;5,21
-SPAXDREWNO 3,5X25;Wkręt Spax drewno 3,5x25mm;10,74;0,01;Stan towaru powyżej ilości minimalnej;13,28;kg;TP;13,28;0,00;;0,00;0,00;0,00;142,67
+SPAXDREWNO 3,5X25;Wkręt Spax drewno 3,5x25mm;10,74;0,01;Stan towaru powyżej ilości minimalnej;12,95;kg;TP;12,95;0,00;;0,00;0,00;0,00;139,13
 SPAXDREWNO 3,5X35;Wkręt Spax drewno 3,5x35mm;21,96;10,93;Stan towaru powyżej ilości minimalnej;7,80;kg;TP;7,80;0,00;;0,00;0,00;0,00;171,29
 SPAXDREWNO 3,5X45;Wkręt spax drewno 3,5x45mm;10,74;8,95;Stan towaru powyżej ilości minimalnej;5,16;kg;TP;5,16;0,00;;0,00;0,00;0,00;55,44
 SPAXDREWNO 3,5X55;Wkręt spax drewno 3,5x55mm;21,96;8,95;Stan towaru powyżej ilości minimalnej;5,19;kg;TP;5,19;0,00;;0,00;0,00;0,00;113,97
@@ -1201,7 +1205,7 @@ ZAŚLEPKA M8 ;Zaślepka M8 SW-13;0,39;0,30;Stan towaru powyżej ilości minimaln
 ZAŚLEPKA PROFILA 30X30;Zaślepka Profila 30x30;0,84;0,42;Stan towaru powyżej ilości minimalnej;194,00;SZT;TP;194,00;25,00;;0,00;0,00;74,00;162,96
 ZAŚLEPKA PROFILA 4,X4,1;Zaślepka Profila 41x41;1,08;0,71;Stan towaru powyżej ilości minimalnej;97,00;SZT;TP;97,00;0,00;;0,00;0,00;0,00;104,76
 ZAWIESZENIE TYP Z  NICZUK;Zawieszenie kanałów wentylacyjnych typ Z niczuk;0,88;0,80;Stan towaru powyżej ilości minimalnej;53,00;SZT;TP;53,00;0,00;;0,00;0,00;0,00;46,64
-ZAWIESZENIE-L;Zawieszenie kanałów wentylacyjnych typu L;0,99;0,95;Stan towaru powyżej ilości minimalnej;713,00;SZT;TP;713,00;341,50;;0,00;0,00;0,00;705,87
+ZAWIESZENIE-L;Zawieszenie kanałów wentylacyjnych typu L;0,99;0,95;Stan towaru powyżej ilości minimalnej;699,00;SZT;TP;699,00;341,50;;0,00;0,00;0,00;692,01
 ZAWIESZENIE-V;Zawieszenie kanałów wentylacyjnych typu V;1,02;0,89;Stan towaru powyżej ilości minimalnej;36,00;SZT;TP;36,00;17,50;;0,00;0,00;1 000,00;36,72
 ZAWIESZENIE-Z (CN);Zawieszenie kanałów wentylacyjnych typu Z (opakowanie 100 sztuk);68,00;0,01;Stan towaru powyżej ilości minimalnej;2 002,15;opk;TP;2 002,15;0,00;;0,00;0,00;0,00;136 146,20
 ZAWIESZENIEKONIKM10;"Zawieszenie typu ""konik"" M10";2,70;2,05;Stan towaru powyżej ilości minimalnej;454,00;SZT;TP;454,00;0,00;;0,00;0,00;0,00;1 225,80
@@ -1209,7 +1213,7 @@ ZAWIESZENIE KONIK M8;"Zawieszenie typu ""konik"" M8";1,94;1,62;Stan towaru powy�
 ZW-100X (CN);Zawór nawiewno-wywiewny chromoniklowany ZW-100X;28,00;12,85;Stan towaru powyżej ilości minimalnej;21,00;SZT;TP;21,00;0,00;Zawór chromoniklowy.png;0,00;0,00;0,00;588,00
 ZW-160X (CN);Zawór nawiewno-wywiewny chromoniklowany ZW-160X;46,70;25,08;Stan towaru powyżej ilości minimalnej;120,00;SZT;TP;120,00;0,00;Zawór chromoniklowy.png;0,00;0,00;0,00;5 604,00
 ZW-200X (CN);Zawór nawiewno-wywiewny chromoniklowany ZW-200X;70,00;40,75;Stan towaru powyżej ilości minimalnej;54,00;SZT;TP;54,00;0,00;Zawór chromoniklowy.png;0,00;0,00;0,00;3 780,00
-ZN-100 (CN);Zawór wentylacyjny nawiewny ZN-100;5,28;0,01;Stan towaru powyżej ilości minimalnej;166,00;SZT;TP;166,00;76,50;Zawór nawiewny 9010.jpg;0,00;0,00;1,00;876,48
+ZN-100 (CN);Zawór wentylacyjny nawiewny ZN-100;5,28;0,01;Stan towaru powyżej ilości minimalnej;165,00;SZT;TP;165,00;76,50;Zawór nawiewny 9010.jpg;0,00;0,00;1,00;871,20
 ZN-125;Zawór wentylacyjny nawiewny ZN-125;7,16;6,32;Stan towaru powyżej ilości minimalnej;259,00;SZT;TP;259,00;49,50;Zawór nawiewny 9010.jpg;0,00;0,00;1 021,00;1 854,44
 ZN-150;"Zawór wentylacyjny nawiewny ZN-150
 ";11,34;0,01;Stan towaru powyżej ilości minimalnej;59,00;SZT;TP;59,00;0,00;;0,00;0,00;0,00;669,06
@@ -1253,4 +1257,4 @@ ZŁĄCZKA REDUKCYJNA CCSR;Złączka redukcyjna do skroplin CCSR, łącznik sztyw
 ZMYWACZ DO PIANY WURTH;Zmywacz do pian Wurth;22,71;19,75;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;1,00;45,42
 4052836157102;ZWĘŻKA REDUKCYJNA HTR FI 110/75;0,00;6,26;Stan towaru powyżej ilości minimalnej;1,00;SZT;TP;1,00;0,00;;0,00;0,00;0,00;0,00
 ŻARNIK 500W;Żarówka halogenowa 500W (żarnik);6,50;5,20;Stan towaru powyżej ilości minimalnej;2,00;SZT;TP;2,00;0,00;;0,00;0,00;0,00;13,00
-1223;;;;;;;;;;;;;;
+1227;;;;;;;;;;;;;;
